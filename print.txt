@@ -1,0 +1,451 @@
+
+Welcome to Toyota Sales Analysis App!
+
+COMMAND:ADD_CITY
+***Following City names are recorded in the system - Toyota Car Sale App - ***
+
+ City Names:
+	JEDDAH MAKKAH MADINA
+-------------------------------------------------------------------------------------------------------
+
+COMMAND:ADD_CITY_BRANCH
+***Following branch names are recorded in the system  - Toyota Sales Analysis App - ***
+ 
+JEDDAH
+	AL_WOROUD	AL_HINDAWIYA	AS_SINAIYA	OBHOUR_AL_JANOBIYA	AL_JAMAA	AS_SULAIMANIYA
+MAKKAH
+	MISFALAH	AL_HINDAWIYYAH	AL_GHASSALAH	AL_NAKHEEL	AL_ISKAN
+MADINA
+	WADI_NOOR	QUBA_ROAD	MADINA_HIGHWAY
+-------------------------------------------------------------------------------------------------------
+
+COMMAND:ADD_MONTH
+***Following month names are recorded in the system - Toyota Sales Analysis App - ***
+ 
+ Month Names:
+JANUARY, FEBRUARY, MARCH, APRIL, MAY, JUNE, JULY, AUGUST, SEPTEMBER, OCTOBER, NOVEMBER, DECEMBER
+-------------------------------------------------------------------------------------------------------
+
+COMMAND:ADD_SALES
+***Following Sales Figures are recorded in the system - Toyota Sales Analysis App - ***
+-------------------------------------------------------------------------------------------------------
+***For the City : Jeddah***
+
+Branch(Al_Woroud)
+      MONTH(       January):    10000
+      MONTH(      February):    20000
+      MONTH(         March):    30000
+      MONTH(         April):    15000
+      MONTH(           May):    16000
+      MONTH(          June):    29000
+      MONTH(          July):    37000
+      MONTH(        August):    95000
+      MONTH(     September):    40000
+      MONTH(       October):    70000
+      MONTH(      November):    80000
+      MONTH(      December):    35000
+
+Branch(Al_Hindawiya)
+      MONTH(       January):    17000
+      MONTH(      February):    29000
+      MONTH(         March):    33000
+      MONTH(         April):    75000
+      MONTH(           May):    26000
+      MONTH(          June):    79000
+      MONTH(          July):    43000
+      MONTH(        August):    55000
+      MONTH(     September):    82000
+      MONTH(       October):    59000
+      MONTH(      November):    73000
+      MONTH(      December):    85000
+
+Branch(As_Sinaiya)
+      MONTH(       January):    93000
+      MONTH(      February):    62000
+      MONTH(         March):    72000
+      MONTH(         April):    47000
+      MONTH(           May):    38000
+      MONTH(          June):    41000
+      MONTH(          July):    93000
+      MONTH(        August):    57000
+      MONTH(     September):    52000
+      MONTH(       October):    43000
+      MONTH(      November):    33000
+      MONTH(      December):    71000
+
+Branch(Obhour_Al_Janobiya)
+      MONTH(       January):    47800
+      MONTH(      February):    52100
+      MONTH(         March):    93200
+      MONTH(         April):    73200
+      MONTH(           May):    21800
+      MONTH(          June):    51900
+      MONTH(          July):    18400
+      MONTH(        August):    39100
+      MONTH(     September):    53700
+      MONTH(       October):    71100
+      MONTH(      November):    72500
+      MONTH(      December):    64300
+
+Branch(Al_Jamaa)
+      MONTH(       January):    79800
+      MONTH(      February):    76500
+      MONTH(         March):    45400
+      MONTH(         April):    37670
+      MONTH(           May):    22870
+      MONTH(          June):    53440
+      MONTH(          July):    67560
+      MONTH(        August):    72320
+      MONTH(     September):    46780
+      MONTH(       October):    58300
+      MONTH(      November):    94320
+      MONTH(      December):    75420
+
+Branch(As_Sulaimaniya)
+      MONTH(       January):    53450
+      MONTH(      February):    63000
+      MONTH(         March):    34530
+      MONTH(         April):    75300
+      MONTH(           May):    52200
+      MONTH(          June):    42300
+      MONTH(          July):    43700
+      MONTH(        August):    65000
+      MONTH(     September):    74000
+      MONTH(       October):    55000
+      MONTH(      November):    66000
+      MONTH(      December):    84400
+
+-------------------------------------------------------------------------------------------------------
+***For the City : Makkah***
+
+Branch(Misfalah)
+      MONTH(       January):    57000
+      MONTH(      February):    35900
+      MONTH(         March):    74000
+      MONTH(         April):    63000
+      MONTH(           May):    28000
+      MONTH(          June):    59000
+      MONTH(          July):    83000
+      MONTH(        August):    45000
+      MONTH(     September):    92000
+      MONTH(       October):    32400
+      MONTH(      November):    79800
+      MONTH(      December):    84500
+
+Branch(Al_Hindawiyyah)
+      MONTH(       January):    65600
+      MONTH(      February):    56200
+      MONTH(         March):    33000
+      MONTH(         April):    74000
+      MONTH(           May):    67000
+      MONTH(          June):    84000
+      MONTH(          July):    48000
+      MONTH(        August):    77000
+      MONTH(     September):    47000
+      MONTH(       October):    54000
+      MONTH(      November):    65000
+      MONTH(      December):    95000
+
+Branch(Al_Ghassalah)
+      MONTH(       January):    77800
+      MONTH(      February):    65100
+      MONTH(         March):    93200
+      MONTH(         April):    73200
+      MONTH(           May):    21800
+      MONTH(          June):    11900
+      MONTH(          July):    32100
+      MONTH(        August):    56700
+      MONTH(     September):    85300
+      MONTH(       October):    98000
+      MONTH(      November):    72500
+      MONTH(      December):    64300
+
+Branch(Al_Nakheel)
+      MONTH(       January):    97800
+      MONTH(      February):    65400
+      MONTH(         March):    45400
+      MONTH(         April):    37670
+      MONTH(           May):    22870
+      MONTH(          June):    53440
+      MONTH(          July):    67560
+      MONTH(        August):    72320
+      MONTH(     September):    46780
+      MONTH(       October):    58300
+      MONTH(      November):    94320
+      MONTH(      December):    75420
+
+Branch(Al_Iskan)
+      MONTH(       January):    76450
+      MONTH(      February):    54000
+      MONTH(         March):    34530
+      MONTH(         April):    75300
+      MONTH(           May):    52200
+      MONTH(          June):    42300
+      MONTH(          July):    43700
+      MONTH(        August):    65000
+      MONTH(     September):    74000
+      MONTH(       October):    55000
+      MONTH(      November):    66000
+      MONTH(      December):    84400
+
+-------------------------------------------------------------------------------------------------------
+***For the City : Madina***
+
+Branch(Wadi_Noor)
+      MONTH(       January):    54500
+      MONTH(      February):    32300
+      MONTH(         March):    77600
+      MONTH(         April):    45000
+      MONTH(           May):    86000
+      MONTH(          June):    98000
+      MONTH(          July):    23000
+      MONTH(        August):    55000
+      MONTH(     September):    82000
+      MONTH(       October):    69000
+      MONTH(      November):    88000
+      MONTH(      December):    45000
+
+Branch(Quba_Road)
+      MONTH(       January):    95000
+      MONTH(      February):    62000
+      MONTH(         March):    52000
+      MONTH(         April):    47000
+      MONTH(           May):    38000
+      MONTH(          June):    39000
+      MONTH(          July):    99000
+      MONTH(        August):    67000
+      MONTH(     September):    48000
+      MONTH(       October):    49000
+      MONTH(      November):    73000
+      MONTH(      December):    81000
+
+Branch(Madina_Highway)
+      MONTH(       January):    88800
+      MONTH(      February):    95210
+      MONTH(         March):    43200
+      MONTH(         April):    53200
+      MONTH(           May):    71800
+      MONTH(          June):    57900
+      MONTH(          July):    19400
+      MONTH(        August):    29100
+      MONTH(     September):    55700
+      MONTH(       October):    61100
+      MONTH(      November):    82500
+      MONTH(      December):    69300
+
+
+COMMAND:PRINT_TOTAL_SALES_BRANCH
+***Following is  Total Sales Figures based on branches recorded in the system - Toyota Sales Analysis App -***
+-------------------------------------------------------------------------------------------------------
+***Total Sales Figures For the City : Jeddah***
+                       Al_Woroud :     477000 SR
+                    Al_Hindawiya :     656000 SR
+                      As_Sinaiya :     702000 SR
+              Obhour_Al_Janobiya :     659100 SR
+                        Al_Jamaa :     730380 SR
+                  As_Sulaimaniya :     708880 SR
+-------------------------------------------------------------------------------------------------------
+***Total Sales Figures For the City : Makkah***
+                        Misfalah :     733600 SR
+                  Al_Hindawiyyah :     765800 SR
+                    Al_Ghassalah :     751900 SR
+                      Al_Nakheel :     737280 SR
+                        Al_Iskan :     722880 SR
+-------------------------------------------------------------------------------------------------------
+***Total Sales Figures For the City : Madina***
+                       Wadi_Noor :     755400 SR
+                       Quba_Road :     750000 SR
+                  Madina_Highway :     727210 SR
+
+COMMAND:PRINT_TOTAL_SALES_MONTH
+***Following is Monthly Sales Figures recorded in the system - Toyota Sales Analysis App - ***
+-------------------------------------------------------------------------------------------------------
+Total Sales Figures For the City : Jeddah
+   Month :       January :      (301050 SR)
+   Month :      February :      (302600 SR)
+   Month :         March :      (308130 SR)
+   Month :         April :      (323170 SR)
+   Month :           May :      (176870 SR)
+   Month :          June :      (296640 SR)
+   Month :          July :      (302660 SR)
+   Month :        August :      (383420 SR)
+   Month :     September :      (348480 SR)
+   Month :       October :      (356400 SR)
+   Month :      November :      (418820 SR)
+   Month :      December :      (415120 SR)
+-------------------------------------------------------------------------------------------------------
+Total Sales Figures For the City : Makkah
+   Month :       January :      (374650 SR)
+   Month :      February :      (276600 SR)
+   Month :         March :      (280130 SR)
+   Month :         April :      (323170 SR)
+   Month :           May :      (191870 SR)
+   Month :          June :      (250640 SR)
+   Month :          July :      (274360 SR)
+   Month :        August :      (316020 SR)
+   Month :     September :      (345080 SR)
+   Month :       October :      (297700 SR)
+   Month :      November :      (377620 SR)
+   Month :      December :      (403620 SR)
+-------------------------------------------------------------------------------------------------------
+Total Sales Figures For the City : Madina
+   Month :       January :      (238300 SR)
+   Month :      February :      (189510 SR)
+   Month :         March :      (172800 SR)
+   Month :         April :      (145200 SR)
+   Month :           May :      (195800 SR)
+   Month :          June :      (194900 SR)
+   Month :          July :      (141400 SR)
+   Month :        August :      (151100 SR)
+   Month :     September :      (185700 SR)
+   Month :       October :      (179100 SR)
+   Month :      November :      (243500 SR)
+   Month :      December :      (195300 SR)
+
+COMMAND:PRINT_MAX_SALE_BRANCH
+***Following Max Sales Figures for Branches recorded in the system - Toyota Sales Analysis App - ***
+-------------------------------------------------------------------------------------------------------
+Max Sales Figures For the City : Jeddah
+                       Al_Woroud :      95000 SR for the month          August 
+                    Al_Hindawiya :      85000 SR for the month        December 
+                      As_Sinaiya :      93000 SR for the month         January 
+              Obhour_Al_Janobiya :      93200 SR for the month           March 
+                        Al_Jamaa :      94320 SR for the month        November 
+                  As_Sulaimaniya :      84400 SR for the month        December 
+-------------------------------------------------------------------------------------------------------
+Max Sales Figures For the City : Makkah
+                        Misfalah :      92000 SR for the month       September 
+                  Al_Hindawiyyah :      95000 SR for the month        December 
+                    Al_Ghassalah :      98000 SR for the month         October 
+                      Al_Nakheel :      97800 SR for the month         January 
+                        Al_Iskan :      84400 SR for the month        December 
+-------------------------------------------------------------------------------------------------------
+Max Sales Figures For the City : Madina
+                       Wadi_Noor :      98000 SR for the month            June 
+                       Quba_Road :      99000 SR for the month            July 
+                  Madina_Highway :      95210 SR for the month        February 
+
+COMMAND:PRINT_MAX_SALE_MONTH
+***Following Max Sales Figures for months recorded in the system - Toyota Sales Analysis App - ***
+-------------------------------------------------------------------------------------------------------
+Max Sales Figures For the City :Jeddah
+
+  month :      January :      (     93000 SR) for the branch                     As_Sinaiya
+  month :     February :      (     76500 SR) for the branch                       Al_Jamaa
+  month :        March :      (     93200 SR) for the branch             Obhour_Al_Janobiya
+  month :        April :      (     75300 SR) for the branch                 As_Sulaimaniya
+  month :          May :      (     52200 SR) for the branch                 As_Sulaimaniya
+  month :         June :      (     79000 SR) for the branch                   Al_Hindawiya
+  month :         July :      (     93000 SR) for the branch                     As_Sinaiya
+  month :       August :      (     95000 SR) for the branch                      Al_Woroud
+  month :    September :      (     82000 SR) for the branch                   Al_Hindawiya
+  month :      October :      (     71100 SR) for the branch             Obhour_Al_Janobiya
+  month :     November :      (     94320 SR) for the branch                       Al_Jamaa
+  month :     December :      (     85000 SR) for the branch                   Al_Hindawiya
+-------------------------------------------------------------------------------------------------------
+Max Sales Figures For the City :Makkah
+
+  month :      January :      (     97800 SR) for the branch                     Al_Nakheel
+  month :     February :      (     65400 SR) for the branch                     Al_Nakheel
+  month :        March :      (     93200 SR) for the branch                   Al_Ghassalah
+  month :        April :      (     75300 SR) for the branch                       Al_Iskan
+  month :          May :      (     67000 SR) for the branch                 Al_Hindawiyyah
+  month :         June :      (     84000 SR) for the branch                 Al_Hindawiyyah
+  month :         July :      (     83000 SR) for the branch                       Misfalah
+  month :       August :      (     77000 SR) for the branch                 Al_Hindawiyyah
+  month :    September :      (     92000 SR) for the branch                       Misfalah
+  month :      October :      (     98000 SR) for the branch                   Al_Ghassalah
+  month :     November :      (     94320 SR) for the branch                     Al_Nakheel
+  month :     December :      (     95000 SR) for the branch                 Al_Hindawiyyah
+-------------------------------------------------------------------------------------------------------
+Max Sales Figures For the City :Madina
+
+  month :      January :      (     95000 SR) for the branch                      Quba_Road
+  month :     February :      (     95210 SR) for the branch                 Madina_Highway
+  month :        March :      (     77600 SR) for the branch                      Wadi_Noor
+  month :        April :      (     53200 SR) for the branch                 Madina_Highway
+  month :          May :      (     86000 SR) for the branch                      Wadi_Noor
+  month :         June :      (     98000 SR) for the branch                      Wadi_Noor
+  month :         July :      (     99000 SR) for the branch                      Quba_Road
+  month :       August :      (     67000 SR) for the branch                      Quba_Road
+  month :    September :      (     82000 SR) for the branch                      Wadi_Noor
+  month :      October :      (     69000 SR) for the branch                      Wadi_Noor
+  month :     November :      (     88000 SR) for the branch                      Wadi_Noor
+  month :     December :      (     81000 SR) for the branch                      Quba_Road
+COMMAND:PRINT_AVERAGE_SALES_BRANCH
+***Following Average Sales Figures based on Branches  recorded in the system - Toyota Sales Analysis App - ***
+-------------------------------------------------------------------------------------------------------
+
+**Average Sales Figures For the City : Jeddah**
+        Branch :                   Al_Woroud  39750.00 SR
+        Branch :                Al_Hindawiya  54666.67 SR
+        Branch :                  As_Sinaiya  58500.00 SR
+        Branch :          Obhour_Al_Janobiya  54925.00 SR
+        Branch :                    Al_Jamaa  60865.00 SR
+        Branch :              As_Sulaimaniya  59073.33 SR
+
+-------------------------------------------------------------------------------------------------------
+
+**Average Sales Figures For the City : Makkah**
+        Branch :                    Misfalah  61133.33 SR
+        Branch :              Al_Hindawiyyah  63816.67 SR
+        Branch :                Al_Ghassalah  62658.33 SR
+        Branch :                  Al_Nakheel  61440.00 SR
+        Branch :                    Al_Iskan  60240.00 SR
+
+-------------------------------------------------------------------------------------------------------
+
+**Average Sales Figures For the City : Madina**
+        Branch :                   Wadi_Noor  62950.00 SR
+        Branch :                   Quba_Road  62500.00 SR
+        Branch :              Madina_Highway  60600.83 SR
+
+COMMAND:PRINT_AVERAGE_SALES_MONTH
+***Following Average Sales Figures based on Months  recorded in the system - Toyota Sales Analysis App - ***
+-------------------------------------------------------------------------------------------------------
+Total Average Sales Figures For the City  :Jeddah
+
+   month :        January: (50175.00 SR)
+   month :       February: (50433.33 SR)
+   month :          March: (51355.00 SR)
+   month :          April: (53861.67 SR)
+   month :            May: (29478.33 SR)
+   month :           June: (49440.00 SR)
+   month :           July: (50443.33 SR)
+   month :         August: (63903.33 SR)
+   month :      September: (58080.00 SR)
+   month :        October: (59400.00 SR)
+   month :       November: (69803.33 SR)
+   month :       December: (69186.67 SR)
+-------------------------------------------------------------------------------------------------------
+Total Average Sales Figures For the City  :Makkah
+
+   month :        January: (74930.00 SR)
+   month :       February: (55320.00 SR)
+   month :          March: (56026.00 SR)
+   month :          April: (64634.00 SR)
+   month :            May: (38374.00 SR)
+   month :           June: (50128.00 SR)
+   month :           July: (54872.00 SR)
+   month :         August: (63204.00 SR)
+   month :      September: (69016.00 SR)
+   month :        October: (59540.00 SR)
+   month :       November: (75524.00 SR)
+   month :       December: (80724.00 SR)
+-------------------------------------------------------------------------------------------------------
+Total Average Sales Figures For the City  :Madina
+
+   month :        January: (79433.33 SR)
+   month :       February: (63170.00 SR)
+   month :          March: (57600.00 SR)
+   month :          April: (48400.00 SR)
+   month :            May: (65266.67 SR)
+   month :           June: (64966.67 SR)
+   month :           July: (47133.33 SR)
+   month :         August: (50366.67 SR)
+   month :      September: (61900.00 SR)
+   month :        October: (59700.00 SR)
+   month :       November: (81166.67 SR)
+   month :       December: (65100.00 SR)
+
+Thank you for using Toyota Sales Analysis App, Good Bye!
